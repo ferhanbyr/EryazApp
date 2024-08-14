@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425870704902",
+    "project_id": "eryaz-1",
+    "storage_bucket": "eryaz-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425870704902:android:5116ff3f28294c7b421e87",
+        "android_client_info": {
+          "package_name": "com.example.eryaz2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbxumoIbphpFyTs4hjgUR5KP6CUxNRyAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
